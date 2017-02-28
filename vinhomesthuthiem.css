@@ -259,7 +259,7 @@ z-index: 9;
 }
 
 #menu-box > nav > ul > li > a:hover {
-background: #dd7222;
+background: #fc8822;
 }
 
 ul.menu > li.current-menu-item > a, ul.menu > li.current_page_item > a, ul.menu > li.current-menu-ancestor > a, ul.menu > li.current-post-ancestor > a {
@@ -306,7 +306,7 @@ text-transform: uppercase;
 padding: 9px 20px 8px;
 }
 ul.menu ul li a:hover {
-    background: #dd7222;
+    background: #fc8822;
     color: #fff;
     font-weight: 400;
 }
@@ -358,7 +358,7 @@ display: none;
 float: right;
 top: 0;
 right: 0;
-background: #dd7222;
+background: #fc8822;
 overflow: hidden;
 z-index: 2;
 }
