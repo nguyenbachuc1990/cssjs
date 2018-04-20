@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2qreBXu' target='_blank'><img src='https://lh3.googleusercontent.com/-r4xR14bFM1s/WLWKC6tjOwI/AAAAAAAAANY/JmV4WQ7tmJUH65HyFRZxPh83VVbfmlgEwCL0B/w530-d-h398-p-rw/thi-cong-chu-inox-dong.jpg' width='500px'/><br/>Thi công chữ inox chuyên nghiệp </a>.Hotline: 0977 22 1512. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2vtSPsR' target='_blank'><img src='http://nguyenbadesign.com:2082/cpsess1925984043/viewer/home%2fnguyenbadesign%2fpublic_html%2fwp-content%2fuploads%2f2018%2f04/gia-cong-chu-inox-TPHCM.jpg' width='500px'/><br/>Gia Công Chữ Inox Chuyên Nghiệp </a>.Hotline: 0977 22 1512. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
