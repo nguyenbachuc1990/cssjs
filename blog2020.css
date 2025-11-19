@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 { font-weight: normal; }
 Global Links CSS
 ******************************************/
 a{ color: #3d3d3d; outline:none; text-decoration: none; }
-a:hover { color: #e74c3c; text-decoration:none; }
+a:hover { color: #f37135; text-decoration:none; }
 
 body {
 font-family: 'Roboto', sans-serif;
@@ -131,7 +131,7 @@ body#layout,body#layout .ct-wrapper{max-width:800px}
 div#header-layout-2 {
 width: 100%;
 background: #ecf0f1;
-border-top: 4px solid #e74c3c;
+border-top: 4px solid #f37135;
 display: inline-block;
 }
 
@@ -493,7 +493,7 @@ div.post-content h2,.post-title{font-weight:bold}
 
 
 .post-title,.post-title a,.ico16:before {
-color: #e74c3c!important;
+color: #f37135!important;
 }
 
 .post-body { padding: 0;    margin:0;   word-wrap:break-word;  }
@@ -621,7 +621,7 @@ text-decoration: none !important;
 white-space: nowrap;
 margin: 0 5px 5px 0;
 padding: 7px 10px;
-background: #e74c3c;
+background: #f37135;
 /*background:#2c3e50;*/
 overflow: hidden;
 font-weight: 300;
@@ -787,7 +787,7 @@ Footer CSS
 background: #2c3e50;
 width: 100%;
 color: #FFFFFF;
-border-top: 5px solid #e74c3c;
+border-top: 5px solid #f37135;
 border-bottom: 1px solid #27282E;
 font-weight:light;
 }
@@ -917,7 +917,7 @@ padding:5px;
 }
 
 .meta span:last-child{
-background:#E74C3C;
+background:#f37135;
 color:#fff;
 float:right;
 }
@@ -1395,4 +1395,5 @@ height:60px;
 @media screen and (max-width: 320px) {
 
 }
+
 
